@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Jobs Portal</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Jobs Portal</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">087a16e7873230107c2a468acebb35a3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>riot</sys_created_by>
+        <sys_created_on>2024-03-02 01:21:36</sys_created_on>
+        <sys_id>fe38717787284a94dd8f7406cebb35bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jobs Portal</sys_name>
+        <sys_package display_value="JobsPortal" source="x_snc_jobsportal">a5b735f387284a94dd8f7406cebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JobsPortal">a5b735f387284a94dd8f7406cebb3583</sys_scope>
+        <sys_update_name>sys_wizard_answer_fe38717787284a94dd8f7406cebb35bf</sys_update_name>
+        <sys_updated_by>riot</sys_updated_by>
+        <sys_updated_on>2024-03-02 01:21:36</sys_updated_on>
+        <table/>
+        <target_url>x_snc_jobsportal_jobs_portal.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

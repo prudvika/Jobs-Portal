@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_jobsportal_jobs_portal</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>riot</sys_created_by>
+        <sys_created_on>2024-03-02 01:21:37</sys_created_on>
+        <sys_id>d338b17787284a94dd8f7406cebb3529</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_jobsportal_jobs_portal</sys_name>
+        <sys_package display_value="JobsPortal" source="x_snc_jobsportal">a5b735f387284a94dd8f7406cebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JobsPortal">a5b735f387284a94dd8f7406cebb3583</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d338b17787284a94dd8f7406cebb3529</sys_update_name>
+        <sys_updated_by>riot</sys_updated_by>
+        <sys_updated_on>2024-03-02 01:21:37</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

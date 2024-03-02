@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e38717787284a94dd8f7406cebb35bd" extends="task" label="Jobs Portal" max_length="40" name="x_snc_jobsportal_jobs_portal" type="collection">
+        <element label="Candidate ID" max_length="40" name="candidate_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate Name" max_length="40" name="candidate_name" type="string"/>
+        <element label="Job ID" max_length="40" name="job_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Name" max_length="40" name="job_name" type="string"/>
+    </element>
+</database>
